@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SistemaCine4DataSet5" targetNamespace="http://tempuri.org/SistemaCine4DataSet5.xsd" xmlns:mstns="http://tempuri.org/SistemaCine4DataSet5.xsd" xmlns="http://tempuri.org/SistemaCine4DataSet5.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SistemaCine4ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SistemaCine4ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ProyectoBibliotecaFinal.Properties.Settings.GlobalReference.Default.SistemaCine4ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SalaTableAdapter" GeneratorDataComponentClassName="SalaTableAdapter" Name="Sala" UserDataComponentName="SalaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SistemaCine4ConnectionString (Settings)" DbObjectName="SistemaCine4.dbo.Sala" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NumSala FROM dbo.Sala</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NumSala" DataSetColumn="NumSala" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SistemaCine4DataSet5" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SistemaCine4DataSet5" msprop:Generator_UserDSName="SistemaCine4DataSet5">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Sala" msprop:Generator_TableClassName="SalaDataTable" msprop:Generator_TableVarName="tableSala" msprop:Generator_TablePropName="Sala" msprop:Generator_RowDeletingName="SalaRowDeleting" msprop:Generator_RowChangingName="SalaRowChanging" msprop:Generator_RowEvHandlerName="SalaRowChangeEventHandler" msprop:Generator_RowDeletedName="SalaRowDeleted" msprop:Generator_UserTableName="Sala" msprop:Generator_RowChangedName="SalaRowChanged" msprop:Generator_RowEvArgName="SalaRowChangeEvent" msprop:Generator_RowClassName="SalaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumSala" msprop:Generator_ColumnVarNameInTable="columnNumSala" msprop:Generator_ColumnPropNameInRow="NumSala" msprop:Generator_ColumnPropNameInTable="NumSalaColumn" msprop:Generator_UserColumnName="NumSala" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

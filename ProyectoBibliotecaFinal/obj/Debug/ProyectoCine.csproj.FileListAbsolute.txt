@@ -1,0 +1,15 @@
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\bin\Debug\ProyectoBibliotecaFinal.exe.config
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\bin\Debug\ProyectoBibliotecaFinal.exe
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\bin\Debug\ProyectoBibliotecaFinal.pdb
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoCine.csprojResolveAssemblyReference.cache
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmCartelera.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmLogin.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmPeliculas.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmPrincipal.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmPuntodeVenta.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.frmSocios.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.Properties.Resources.resources
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoCine.csproj.GenerateResource.Cache
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoCine.csproj.CoreCompileInputs.cache
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.exe
+C:\Users\ALANZON\Desktop\ProyectoCine\ProyectoBibliotecaFinal\obj\Debug\ProyectoBibliotecaFinal.pdb
